@@ -1,2 +1,2 @@
 # Contact-Management-
-Simple console Contact Management Project using C++ 
+Simple console Contact Management Project C++ 
